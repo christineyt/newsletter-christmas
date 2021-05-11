@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title></title>
+
+<style type="text/css">
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+
+@media (max-width: 480px) {
+
+  * {
+    box-sizing: border-box;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  table, tr, td {
+    width: 100%;
+    display: block;
+  }
+
+  .social-icon {
+    width: 30px;
+  }
+
+  .two-col-img {
+    margin-bottom: 15px;
+  }
+
+  .displaynone {
+    display: none;
+  }
+
+}
+
+</style>
+
+</head>
+
+<body bgcolor="#ffffff">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"><!--background-->
+    <tr>
+      <td>
+        <table width="620" border="0" cellspacing="0" cellpadding="10" align="center"> <!-- preheader -->
+          <tr>
+            <td>
+              <table width="800" border="0" cellspacing="0" cellpadding="10">
+                <tr>
+                  <td class="container-padding header" align="center" style="font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', 'Osaka', Arial, sans-serif; font-size: 75%; padding-bottom: 12px; padding-left: 24px; padding-right: 24px;">
+                    CALL US:0800.800.800 | <a href="#" style="color: #888888;" data-hs-link-id="0" target="_blank">VISIT OUR WEBSITE</a>
+                    </td>
+                  </td>
+     						</tr>
+              </table>
+            </td>
+      		</tr>
+      </table> <!-- end preheader -->
+      <table width="604" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="#ffffff" > <!-- 3px grey border -->
+        <tr>
+          <td>
+            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff" ><!-- body wrapper -->
+              <tr>
+                <td> <!--All Content is Added Below Here-->
+<tr>
+			<td style="padding: 5px 5px 5px 5px;">
+
+				<!-- top -->
+				<table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="responsive-tbl">
+					<tbody><tr>
+						<td align="left" valign="center" style="line-height: 11px; padding: 0px 0px 5px 0px;">
+							<span style="font-family: Arial, Tahoma, sans-serif; font-size: 11px; line-height: 11px; color: #93989e;">
+								
+							</span>
+						</td>
+						<td align="right" valign="center" style="line-height: 11px; padding: 0px 0px 5px 0px;">
+							
+						</td>
+					</tr>
+				</tbody></table>
+				<!-- top end -->
+				
+				<!-- main container -->
+				<table width="600" cellpadding="0" cellspacing="0" bgcolor="#98080f" border="0" align="center" class="responsive-tbl">
+					<tbody><tr>
+						<td background="https://cdn2.hubspot.net/hubfs/4892529/Backgrounds/bg-christmas.jpg" bgcolor="#080f19" width="600" height="471" valign="top">
+                          <!--[if gte mso 9]>
+                          <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:471px;">
+                            <v:fill type="tile" src="https://cdn2.hubspot.net/hubfs/4892529/Backgrounds/bg-christmas.jpg" color="#98080f" />
+                            <v:textbox inset="0,0,0,0">
+                        <![endif]-->
+                        <div>
+                        	<table width="100%" cellpadding="0" cellspacing="0" align="center" class="responsive-tbl">
+                        		<!-- logo -->
+                        		<tbody><tr>
+                        			<td align="left" valign="center" style="line-height: 15px; padding: 30px 30px 30px 30px;">
+                        				<div id="hs_cos_wrapper_my_logo" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="http://muiscadesignssite-wordpress-4892529.hs-sites.com/" id="hs-link-my_logo" style="border-width:0px;border:0px;" data-hs-link-id="0" target="_blank"><img src="https://cdn2.hubspot.net/hub/4892529/hubfs/sweet-logo-white.png?width=200&amp;upscale=true&amp;name=sweet-logo-white.png" class="hs-image-widget " style="max-height:20px; max-width:100px; border-width:0px;border:0px;" width="100" alt="sweet-logo-white" title="sweet-logo-white"></a></div>
+                        			</td>
+                        		</tr>
+                        		<!-- logo ends -->
+                        		<!-- intro -->
+                        		<tr>
+                        			<td align="center" valign="top" style="line-height: 50px; padding: 0px 30px 0px 30px;">
+                        				<div id="hs_cos_wrapper_icon" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_image" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="image"><img src="https://cdn2.hubspot.net/hub/4892529/hubfs/Icons/icon-tree.png?width=140&amp;upscale=true&amp;name=icon-tree.png" class="hs-image-widget " style="max-height:108px; max-width:70px; border-width:0px;border:0px;" width="70" alt="icon-tree" title="icon-tree"></div>
+                        				<span style="font-family: Times, serif; font-size: 18px; line-height: 50px; color: #dbd8e1; text-transform: uppercase; letter-spacing: 4px;"><strong><div id="hs_cos_wrapper_Subtitle" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="text">WE WISH YOU A</div></strong></span>
+                        				<span style="font-family: Times, serif; font-size: 48px; line-height: 50px; color: #ffffff; text-transform: uppercase; letter-spacing: 4px;"><strong><div id="hs_cos_wrapper_MainTitle" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="text">MERRY CHRISTMAS</div></strong></span>
+                        				<span style="font-family: Times, serif; font-size: 18px; line-height: 50px; color: #dbd8e1; text-transform: uppercase; letter-spacing: 4px;"><strong><div id="hs_cos_wrapper_SeconSubtitle" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="text">and a Happy New Year</div></strong></span>
+                        			</td>
+                        		</tr>
+                        		<!-- intro ends -->
+                        	</tbody></table>
+                        </div>
+                          <!--[if gte mso 9]>
+                            </v:textbox>
+                          </v:rect>
+                      <![endif]-->
+                  </td>
+              </tr>  
+              <!-- content -->
+              <tr>
+              	<td align="center" valign="top" style="line-height: 32px; padding: 30px 30px 0px 30px;">
+              		<span style="font-family: Times, serif; font-size: 28px; line-height: 32px; color: #ffffff; text-transform: uppercase; letter-spacing: 4px;"><strong><div id="hs_cos_wrapper_CntTitle" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="text">Wishing You a Wonderful Holiday Season</div></strong><br>•</span>
+              	</td>
+              </tr>
+              <tr>
+              	<td align="center" valign="top" style="line-height: 24px; padding: 10px 30px 0px 30px;">
+              		<div id="hs_cos_wrapper_hs_email_body" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="font-family: 'Titillium Web', Arial, sans-serif; font-size: 16px; line-height: 24px; color: #dadfe2; letter-spacing: 1px;">Sweet templates gives you control over each element.<br>Create sweet, simple, and beautiful emails with just one click.</span></div>
+              	</td>
+              </tr>
+              <!-- content ends -->
+              <!-- cta -->
+              <tr>
+              	<td align="center" valign="top" style="line-height: 50px; padding: 30px 30px 30px 30px;">
+                  <div id="hs_cos_wrapper_cta" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" data-hs-img-pg="9f134007-4375-4071-a769-a9557eb6fec6" id="hs-cta-wrapper-9f134007-4375-4071-a769-a9557eb6fec6"><span class="hs-cta-node hs-cta-9f134007-4375-4071-a769-a9557eb6fec6" id="hs-cta-9f134007-4375-4071-a769-a9557eb6fec6"><a href="https://hsctaimages.net/ctas/v2/public/cs/ci/?pg=9f134007-4375-4071-a769-a9557eb6fec6&amp;pid=4892529&amp;ecid={{encrypted_contact_id}}&amp;hseid={{email_campaign_id}}&amp;hsic={{impersonated_contact}}" target="_blank" data-hs-link-id="0"><img class="hs-cta-img" id="hs-cta-img-9f134007-4375-4071-a769-a9557eb6fec6" style="border-width:0px;width: auto !important; max-width: 100% !important;" mce_noresize="1" src="https://hsctaimages.net/ctas/v2/public/cs/il/?pg=9f134007-4375-4071-a769-a9557eb6fec6&amp;pid=4892529&amp;ecid={{encrypted_contact_id}}&amp;hseid={{email_campaign_id}}&amp;hsic={{impersonated_contact}}" alt="VISIT OUR SITE" srcset="https://hsctaimages.net/ctas/v2/public/cs/il/?pg=9f134007-4375-4071-a769-a9557eb6fec6&amp;pid=4892529&amp;ecid={{encrypted_contact_id}}&amp;hseid={{email_campaign_id}}&amp;hsic={{impersonated_contact}}&amp;dsf=2 2x, https://hsctaimages.net/ctas/v2/public/cs/il/?pg=9f134007-4375-4071-a769-a9557eb6fec6&amp;pid=4892529&amp;ecid={{encrypted_contact_id}}&amp;hseid={{email_campaign_id}}&amp;hsic={{impersonated_contact}}&amp;dsf=3 3x, https://hsctaimages.net/ctas/v2/public/cs/il/?pg=9f134007-4375-4071-a769-a9557eb6fec6&amp;pid=4892529&amp;ecid={{encrypted_contact_id}}&amp;hseid={{email_campaign_id}}&amp;hsic={{impersonated_contact}}&amp;dsf=4 4x"></a></span></span><!-- end HubSpot Call-to-Action Code --></div>
+              	</td>
+              </tr>
+              <!-- cta ends -->
+          </tbody></table>
+          <!-- main container end -->
+          
+          <!-- contact container -->
+          <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="responsive-tbl">
+          	<!-- footer -->
+          	<tbody><tr>
+          		<td align="right" width="50%" valign="center" style="line-height: 1px; padding: 40px 10px 0px 10px;">
+          			<span style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1px;">
+          				<div id="hs_cos_wrapper_twitter" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://cdn2.hubspot.net/hub/4892529/hubfs/Social/icon-social-twitter-grey.png?width=60&amp;upscale=true&amp;name=icon-social-twitter-grey.png" class="hs-image-widget " style="max-height:30px; max-width:30px; border-width:0px;border:0px;" width="30" align="center" hspace="1" alt="Our Twitter" title="Our Twitter"></div>
+          			</span>
+          		</td>
+          		<td align="left" width="50%" valign="center" style="line-height: 1px; padding: 40px 10px 0px 10px;">
+          			<span style="font-family: Arial, sans-serif; font-size: 16px; line-height: 1px;">
+          				<div id="hs_cos_wrapper_facebook" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://cdn2.hubspot.net/hub/4892529/hubfs/Social/icon-social-facebook-grey.png?width=60&amp;upscale=true&amp;name=icon-social-facebook-grey.png" class="hs-image-widget " style="max-height:30px; max-width:30px; border-width:0px;border:0px;" width="30" align="center" hspace="1" alt="Our Facebook" title="Our Facebook"></div>
+          			</span>
+          		</td>
+          	</tr>
+          	<tr>
+          		<td colspan="2" align="center" valign="center" style="line-height: 24px; padding: 40px 40px 40px 40px;">
+          			<span style="font-family: Arial, sans-serif; font-size: 13px; line-height: 24px; color: #93989e;">
+          				To manage other email settings, visit your account settings.<br>
+          				If you don't want to receive newsletter from , you can <a href="https://hs-4892529.s.hubspotfree.net/hs/manage-preferences/unsubscribe-test?d=VmYj8D7yNjB0VKgD3Q3_YlyBW2m3bL73_YlyBN1JxwY5GKd_PV20N8L8tKXlTW5ZwBSF85L-3bF5_pwJdCfNC1&amp;v=3" style="color: #93989e; text-decoration: none;" data-hs-link-id="0" target="_blank"><strong>unsubscribe</strong></a>.
+          			</span>
+          		</td>
+          	</tr>
+          	<tr>
+          		<td colspan="2" align="center" valign="center" style="line-height: 24px; padding: 0px 40px 40px 40px;">
+          			<span style="font-family: Arial, sans-serif; font-size: 13px; line-height: 24px; color: #93989e;">
+          				—<br>
+          				 , 
+          			</span>
+          		</td>
+          	</tr>
+          	<!-- footer ends -->
+          </tbody></table>
+          <!-- contact container ends -->
+
+      </td>
+  </tr>
+                 <!--end Regulatory footer-->
+                </td>
+              </tr>
+            </table><!-- end body wrapper -->
+          </td>
+        </tr>
+      </table><!--end background-->
+    </td>
+  </tr>
+</table><!--end 2px border-->
+</body>
+</html>
